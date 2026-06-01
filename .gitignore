@@ -1,0 +1,17 @@
+*.o
+*.vcd
+*.cf
+*.bak
+*.vo
+
+*.xml
+*dts
+*dtsbo
+*.csv
+*.xlsx
+
+**/db/
+**/incremental_db/
+**/output_files/
+
+**/simulation/questa/

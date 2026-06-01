@@ -1,0 +1,474 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/202502/IC/FPGA/VIGA_FIR/modelSim
+Eadap_fxnlms
+Z0 w1778846325
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z6 DPx4 work 8 basic_op 0 22 eE7^NnP0jdANo45nh>?_N1
+!i122 105
+Z7 dC:/202502/IC/FPGA/Viga_circuit/modelSim
+Z8 8C:/202502/IC/FPGA/Viga_circuit/wc/adap_fxnlms.vhd
+Z9 FC:/202502/IC/FPGA/Viga_circuit/wc/adap_fxnlms.vhd
+l0
+L15 1
+VfIBCYe3cW`KY08WW[:82_3
+!s100 :g2[z>bn9JN]gkhI4_>Oh1
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1778867713
+!i10b 1
+Z12 !s108 1778867713.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/wc/adap_fxnlms.vhd|
+Z14 !s107 C:/202502/IC/FPGA/Viga_circuit/wc/adap_fxnlms.vhd|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Aadaptativo
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 adap_fxnlms 0 22 fIBCYe3cW`KY08WW[:82_3
+!i122 105
+l139
+L28 533
+V1GX:l^d=D1<LKTjaH3F:=1
+!s100 Qmin6AR`_V>^hj;d=@lTa0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Pbasic_op
+R1
+R2
+R3
+R4
+R5
+!i122 102
+Z17 w1327404313
+R7
+Z18 8C:/202502/IC/FPGA/Viga_circuit/configs/Basic_op.vhd
+Z19 FC:/202502/IC/FPGA/Viga_circuit/configs/Basic_op.vhd
+l0
+L7 1
+VeE7^NnP0jdANo45nh>?_N1
+!s100 e?0aoHLT1ZHZcPYnnUUEM3
+R10
+32
+b1
+R11
+!i10b 1
+R12
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/configs/Basic_op.vhd|
+Z21 !s107 C:/202502/IC/FPGA/Viga_circuit/configs/Basic_op.vhd|
+!i113 1
+R15
+R16
+Bbody
+R6
+R1
+R2
+R3
+R4
+R5
+!i122 102
+l0
+L58 1
+V^Mg;O=ZRi;0C^hz6ee8c91
+!s100 78^ac]?>cz;eZbB6<7OKi3
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 1
+R15
+R16
+Econtrol
+Z22 w1778845806
+Z23 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+Z24 DPx4 work 5 types 0 22 KP`OnGb7>]LAVckf2TWXD3
+R3
+R4
+R5
+!i122 107
+R7
+Z25 8C:/202502/IC/FPGA/Viga_circuit/control.vhd
+Z26 FC:/202502/IC/FPGA/Viga_circuit/control.vhd
+l0
+L6 1
+VL;MWXD`0AYQ?f:z4hYY5T2
+!s100 z^K?ciSLij?2U47``V1:T2
+R10
+32
+Z27 !s110 1778867714
+!i10b 1
+Z28 !s108 1778867714.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/control.vhd|
+Z30 !s107 C:/202502/IC/FPGA/Viga_circuit/control.vhd|
+!i113 1
+R15
+R16
+Artl
+R23
+R24
+R3
+R4
+R5
+DEx4 work 7 control 0 22 L;MWXD`0AYQ?f:z4hYY5T2
+!i122 107
+l52
+L26 236
+VBl]EJG:5iFDUbRTT][Vam1
+!s100 Z<BX1A;IcefECnfi3Z=lP2
+R10
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R15
+R16
+Edatapath
+Z31 w1778846376
+R1
+R2
+R6
+R23
+R24
+R3
+R4
+R5
+!i122 108
+R7
+Z32 8C:/202502/IC/FPGA/Viga_circuit/datapath.vhd
+Z33 FC:/202502/IC/FPGA/Viga_circuit/datapath.vhd
+l0
+L8 1
+VAKhegm:Me20E8moImGTW<1
+!s100 5@2Z?1KU468n:jLb;;4em0
+R10
+32
+R27
+!i10b 1
+R28
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/datapath.vhd|
+Z35 !s107 C:/202502/IC/FPGA/Viga_circuit/datapath.vhd|
+!i113 1
+R15
+R16
+Artl
+R1
+R2
+R6
+R23
+R24
+R3
+R4
+R5
+DEx4 work 8 datapath 0 22 AKhegm:Me20E8moImGTW<1
+!i122 108
+l88
+L25 130
+VgB6HF57_ZAZE9iInTeSVJ2
+!s100 g@0@:O[Kmf<Z`8YAYW8VA0
+R10
+32
+R27
+!i10b 1
+R28
+R34
+R35
+!i113 1
+R15
+R16
+Efeedback_fir
+Z36 w1778791307
+R23
+R24
+R3
+R4
+R5
+!i122 104
+R7
+Z37 8C:/202502/IC/FPGA/Viga_circuit/wf/feedback_fir.vhd
+Z38 FC:/202502/IC/FPGA/Viga_circuit/wf/feedback_fir.vhd
+l0
+L6 1
+V@l]Nc9hkTXnNNORW6geW82
+!s100 2^UD82YKd8Fcg5m^5k@O]3
+R10
+32
+R11
+!i10b 1
+R12
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/wf/feedback_fir.vhd|
+Z40 !s107 C:/202502/IC/FPGA/Viga_circuit/wf/feedback_fir.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R23
+R24
+R3
+R4
+R5
+DEx4 work 12 feedback_fir 0 22 @l]Nc9hkTXnNNORW6geW82
+!i122 104
+l119
+Z41 L35 307
+V9eXFYWGIGJ5b0;Q]Cj_Yj2
+!s100 LZIlZP0UkmFGmQ0WcozJD1
+R10
+32
+R11
+!i10b 1
+R12
+R39
+R40
+!i113 1
+R15
+R16
+Efeedsecondary_fir
+Z42 w1778791308
+R23
+R24
+R3
+R4
+R5
+!i122 106
+R7
+Z43 8C:/202502/IC/FPGA/Viga_circuit/ws/feedsecondary_fir.vhd
+Z44 FC:/202502/IC/FPGA/Viga_circuit/ws/feedsecondary_fir.vhd
+l0
+L6 1
+Vl[6`3F]85B:a_0aYn`BN22
+!s100 ?3[P]bOAdYST2_k9:fUY]0
+R10
+32
+R27
+!i10b 1
+R28
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/ws/feedsecondary_fir.vhd|
+Z46 !s107 C:/202502/IC/FPGA/Viga_circuit/ws/feedsecondary_fir.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R23
+R24
+R3
+R4
+R5
+DEx4 work 17 feedsecondary_fir 0 22 l[6`3F]85B:a_0aYn`BN22
+!i122 106
+l119
+R41
+VUd>EXK^5?>mMSBd@1h?QG0
+!s100 b]dmiNWIK0o3?jcb55QGm2
+R10
+32
+R27
+!i10b 1
+R28
+R45
+R46
+!i113 1
+R15
+R16
+Eram
+Z47 w1778848414
+Z48 DPx9 altera_mf 20 altera_mf_components 0 22 HVLmIbRl@QhXfWVOmhK<j1
+R4
+R5
+!i122 101
+R7
+Z49 8C:/202502/IC/FPGA/Viga_circuit/ram.vhd
+Z50 FC:/202502/IC/FPGA/Viga_circuit/ram.vhd
+l0
+L43 1
+V`Ccm[MAg`Q6aXdUVgD9R83
+!s100 VAaBYjS=MdE?QJHOiYDPS1
+R10
+32
+R11
+!i10b 1
+R12
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/ram.vhd|
+Z52 !s107 C:/202502/IC/FPGA/Viga_circuit/ram.vhd|
+!i113 1
+R15
+R16
+Asyn
+R48
+R4
+R5
+DEx4 work 3 ram 0 22 `Ccm[MAg`Q6aXdUVgD9R83
+!i122 101
+l59
+L55 35
+VCE=>YV31kUWTY6N`iM6iJ1
+!s100 @Jo=H1_S^E:<RURkPSFdJ0
+R10
+32
+R11
+!i10b 1
+R12
+R51
+R52
+!i113 1
+R15
+R16
+Etb_viga_circuit
+Z53 w1778867695
+R23
+R24
+R3
+R4
+R5
+!i122 110
+R7
+Z54 8C:/202502/IC/FPGA/Viga_circuit/tb/tb_viga_circuit.vhd
+Z55 FC:/202502/IC/FPGA/Viga_circuit/tb/tb_viga_circuit.vhd
+l0
+L6 1
+VU142dDTDi6CPh>ZLFB6ZM2
+!s100 CJ<i^1zVhFT`fYGJR[1>U2
+R10
+32
+R27
+!i10b 1
+R28
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/tb/tb_viga_circuit.vhd|
+Z57 !s107 C:/202502/IC/FPGA/Viga_circuit/tb/tb_viga_circuit.vhd|
+!i113 1
+R15
+R16
+Asim
+R1
+R2
+R6
+Z58 DEx4 work 12 viga_circuit 0 22 lUjh:BBb:YXi=@_70QlO50
+R23
+R24
+R3
+R4
+R5
+Z59 DEx4 work 15 tb_viga_circuit 0 22 U142dDTDi6CPh>ZLFB6ZM2
+!i122 110
+l128
+L9 275
+VNTjFlFYSJ;=Q<e=DVL?f`2
+!s100 3@9lcZ58a=7FLKdL@K[AC2
+R10
+32
+R27
+!i10b 1
+R28
+R56
+R57
+!i113 1
+R15
+R16
+Ptypes
+R23
+R3
+R4
+R5
+!i122 103
+w1778529338
+R7
+8C:/202502/IC/FPGA/Viga_circuit/configs/fir_config.vhd
+FC:/202502/IC/FPGA/Viga_circuit/configs/fir_config.vhd
+l0
+L6 1
+VKP`OnGb7>]LAVckf2TWXD3
+!s100 L0;3iXfjQFzS=nG0c`e632
+R10
+32
+R11
+!i10b 1
+R12
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/configs/fir_config.vhd|
+!s107 C:/202502/IC/FPGA/Viga_circuit/configs/fir_config.vhd|
+!i113 1
+R15
+R16
+Eviga_circuit
+R42
+R1
+R2
+R6
+R23
+R24
+R3
+R4
+R5
+!i122 109
+R7
+Z60 8C:/202502/IC/FPGA/Viga_circuit/viga_circuit.vhd
+Z61 FC:/202502/IC/FPGA/Viga_circuit/viga_circuit.vhd
+l0
+L7 1
+VlUjh:BBb:YXi=@_70QlO50
+!s100 ?IROeJK]IMh>Di]HDl=iG2
+R10
+32
+R27
+!i10b 1
+R28
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/202502/IC/FPGA/Viga_circuit/viga_circuit.vhd|
+Z63 !s107 C:/202502/IC/FPGA/Viga_circuit/viga_circuit.vhd|
+!i113 1
+R15
+R16
+Artl
+R1
+R2
+R6
+R23
+R24
+R3
+R4
+R5
+R58
+!i122 109
+l84
+L31 107
+V6g@O;YTTicE=3:_Q]G>Kb0
+!s100 :kohi9X;4?i]98P6LPd2l3
+R10
+32
+R27
+!i10b 1
+R28
+R62
+R63
+!i113 1
+R15
+R16

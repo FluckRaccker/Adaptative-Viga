@@ -1,0 +1,119 @@
+C:/202502/IC/FPGA/Viga_circuit/configs/fir_config.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/configs/fir_config.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling package TYPES
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/wc/adap_fxnlms.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/wc/adap_fxnlms.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package BASIC_OP
+-- Compiling entity adap_fxnlms
+-- Compiling architecture adaptativo of adap_fxnlms
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/datapath.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/datapath.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package TYPES
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package BASIC_OP
+-- Compiling entity datapath
+-- Compiling architecture rtl of datapath
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/tb/tb_viga_circuit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/tb/tb_viga_circuit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package TYPES
+-- Compiling entity tb_viga_circuit
+-- Compiling architecture sim of tb_viga_circuit
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package BASIC_OP
+-- Loading entity viga_circuit
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/configs/Basic_op.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/configs/Basic_op.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling package BASIC_OP
+-- Compiling package body BASIC_OP
+-- Loading package BASIC_OP
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/ram.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/ram.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity ram
+-- Compiling architecture SYN of ram
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/viga_circuit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/viga_circuit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package TYPES
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package BASIC_OP
+-- Compiling entity viga_circuit
+-- Compiling architecture rtl of viga_circuit
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/ws/feedsecondary_fir.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/ws/feedsecondary_fir.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package TYPES
+-- Compiling entity feedsecondary_fir
+-- Compiling architecture Behavioral of feedsecondary_fir
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/wf/feedback_fir.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/wf/feedback_fir.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package TYPES
+-- Compiling entity feedback_fir
+-- Compiling architecture Behavioral of feedback_fir
+
+} {} {}} C:/202502/IC/FPGA/Viga_circuit/control.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/202502/IC/FPGA/Viga_circuit/control.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package TYPES
+-- Compiling entity control
+-- Compiling architecture rtl of control
+
+} {} {}}
